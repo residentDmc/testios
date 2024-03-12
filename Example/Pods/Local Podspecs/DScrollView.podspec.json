@@ -1,0 +1,22 @@
+{
+  "name": "DScrollView",
+  "version": "0.1.0",
+  "summary": "A short description of DScrollView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/andrioddeveloper/DScrollView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "andrioddeveloper": "android.developer.70@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/andrioddeveloper/DScrollView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DScrollView/Classes/**/*"
+}
